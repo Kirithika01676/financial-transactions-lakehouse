@@ -1,0 +1,11 @@
+transaction_id,account_id,transaction_date,transaction_type,amount,merchant_name,merchant_category,payment_channel,status
+5001,1001,2026-03-01,Debit,120.50,Amazon,Retail,Card,Completed
+5002,1002,2026-03-01,Credit,1500.00,Employer Ltd,Salary,Bank Transfer,Completed
+5003,1003,2026-03-02,Debit,75.20,Tesco,Grocery,Card,Completed
+5004,1004,2026-03-02,Debit,2200.00,Apple,Electronics,Card,Completed
+5005,1005,2026-03-03,Debit,15.75,Starbucks,Food,Card,Completed
+5006,1001,2026-03-03,Debit,9800.00,CryptoX,Investment,Wire,Pending
+5007,1002,2026-03-04,Debit,210.00,British Gas,Utilities,Direct Debit,Completed
+5008,1003,2026-03-04,Credit,2500.00,Client Payment,Freelance,Bank Transfer,Completed
+5009,1004,2026-03-05,Debit,49.99,Netflix,Entertainment,Card,Completed
+5010,1005,2026-03-05,Debit,650.00,EasyJet,Travel,Card,Completed

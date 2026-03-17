@@ -1,0 +1,6 @@
+account_id,customer_id,account_type,currency,opened_date,status
+1001,1,Checking,GBP,2023-01-10,Active
+1002,2,Savings,GBP,2022-06-15,Active
+1003,3,Checking,GBP,2021-11-20,Active
+1004,4,Credit,GBP,2024-02-01,Active
+1005,5,Checking,GBP,2023-09-05,Active

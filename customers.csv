@@ -1,0 +1,6 @@
+customer_id,customer_name,date_of_birth,city,country,risk_profile
+1,Alice Brown,1992-05-14,London,UK,Low
+2,Bob Smith,1988-09-22,Manchester,UK,Medium
+3,Charlie Green,1979-12-01,Birmingham,UK,High
+4,Diana White,1995-03-18,Leeds,UK,Low
+5,Emma Jones,1990-07-09,Glasgow,UK,Medium
